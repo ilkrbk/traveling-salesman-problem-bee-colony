@@ -11,7 +11,7 @@ totalNumberBees
 In the file so the paths
 
 ```
-./PA_LR1.2/bin/Debug/netcoreapp3.1/index.txt
+./PA_LR3/bin/Debug/netcoreapp3.1/index.txt
 ```
 
 This format stores information about the graph
